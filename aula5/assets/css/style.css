@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    line-height: 1.58;
+}
+
+.format-text {
+    width: 500px;
+    padding: 10px;
+}
+
+#menu {
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    padding: 1.5rem;
+}
+
+.navbar{
+    background-color: cadetblue !important;
+    color: white !important;
+    text-align: center !important;
+    padding: 1.5rem !important;
+}
+
+.banner {
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    height: 250px;
+    width: 100%;
+}
+
+.principal h1 {
+    margin: 0;
+}
+
+.principal h2 {
+    color: rgba(0, 0, 0, 0.541176);
+    font-size: 28px;
+    margin-top: 5px;
+    margin-bottom: 22px;
+}
+
+.principal p {
+    margin-top: 29px;
+}
+
+a {
+    color: cadetblue !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+    text-decoration: underline !important;
+}
+
+#conteudo-left {
+    width: 500px;
+    float: left;
+}
+
+#conteudo-right {
+    width: 500px;
+    float: left;
+}
